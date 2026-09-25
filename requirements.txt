@@ -1,8 +1,0 @@
-streamlit
-requests
-beautifulsoup4
-lxml
-sentence-transformers
-python-dotenv
-anthropic
-openpyxl
